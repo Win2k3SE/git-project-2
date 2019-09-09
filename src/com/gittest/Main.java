@@ -5,6 +5,17 @@ public class Main {
 	private static final String fName = "Jeonghan";
 	private static final String lName = "Yoon";
 
+	
+	public static String getFname() {
+		return fName;
+	}
+
+
+	public static String getLname() {
+		return lName;
+	}
+
+
 	public static void main(String[] args) {
 		
 		System.out.println("Hello world!");
