@@ -1,26 +1,15 @@
 package com.gittest;
 
-public class Main {
-	
-	private static final String fName = "Jeonghan";
-	private static final String lName = "Yoon";
+import com.gittest.domain.Person;
+import com.gittest.services.NameSayer;
 
-	public static String getFname() {
-		return fName;
-	}
-	public static String getLname() {
-		return lName;
-	}
-	public static String generateTheName() {
-		return "My name is " + getLname() + " " + getFname() + "! Nice to meet you!";
-	}
-	public static void sayTheName() {
-		System.out.println(generateTheName());
-	}
+public class Main {
 	
 	public static void main(String[] args) {
 		
-		sayTheName();
+		Person yjh = new Person("Jeonghan", "Yoon");
+		
+		NameSayer.sayTheName(yjh);
 		
 	}
 }
