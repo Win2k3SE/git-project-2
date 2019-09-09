@@ -20,13 +20,7 @@ public class Main {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Hello world!");
-		// lets create a conflict here, faggots!
-		System.out.println("Another line");
-		System.out.println("Added the thirdd line");
-		
-		System.out.println("Added the fourth line");
-		// this is great isn't it!?
+		sayTheName();
 		
 	}
 }
