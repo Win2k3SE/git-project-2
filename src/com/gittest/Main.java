@@ -13,8 +13,5 @@ public class Main {
 		NameSayer.sayTheName(yjh);
 
 	}
-	public static void hui() {
-		//hui
-	}
 	
 }
