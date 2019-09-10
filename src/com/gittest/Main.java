@@ -12,5 +12,6 @@ public class Main {
 		NameSayer.sayTheName(yjh);
 
 		// first modif on branch crazy idea
+		// 2nd commit on crazy idea
 	}
 }
