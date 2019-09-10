@@ -9,6 +9,7 @@ public class Main {
 		System.out.println("hui");
 	}
 	
+	// Ja hueju s etogo gita!
 	public static void main(String[] args) {
 		
 		Person yjh = new Person("Jeonghan", "Yoon");
