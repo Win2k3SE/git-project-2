@@ -16,5 +16,8 @@ public class Main {
 	public static void pizda() {
 		// pizda
 	}
+	public void sex() {
+		// sex
+	}
 	
 }
