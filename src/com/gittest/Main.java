@@ -13,5 +13,8 @@ public class Main {
 		NameSayer.sayTheName(yjh);
 
 	}
+	public static void pizda() {
+		// pizda
+	}
 	
 }
