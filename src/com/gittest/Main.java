@@ -5,6 +5,7 @@ import com.gittest.services.NameSayer;
 
 public class Main {
 	// ohuennaya idea~~~
+	
 	public static void main(String[] args) {
 		
 		Person yjh = new Person("Jeonghan", "Yoon");
