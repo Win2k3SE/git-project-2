@@ -13,11 +13,5 @@ public class Main {
 		NameSayer.sayTheName(yjh);
 
 	}
-	public static void pizda() {
-		// pizda
-	}
-	public void sex() {
-		// sex
-	}
 	
 }
