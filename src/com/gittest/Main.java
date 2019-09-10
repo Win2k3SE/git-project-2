@@ -18,6 +18,8 @@ public class Main {
 
 		// first modif on branch crazy idea
 		// 2nd commit on crazy idea
+
+		// modify inside main on master
 	}
 	
 }
