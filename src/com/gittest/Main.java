@@ -22,4 +22,6 @@ public class Main {
 		// modify inside main on master
 	}
 	
+	// modifying the line below main() 
+	// this shouldn't result in a conflict
 }
