@@ -10,9 +10,6 @@ public class Main {
 		Person yjh = new Person("Jeonghan", "Yoon");
 		
 		NameSayer.sayTheName(yjh);
-		
-		/* this is a temp branch */
-		// What's going on???
-		
+
 	}
 }
