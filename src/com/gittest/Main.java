@@ -15,4 +15,7 @@ public class Main {
 		// first modif on branch crazy idea
 		// 2nd commit on crazy idea
 	}
+	
+	// modifying the line below main() 
+	// this shouldn't result in a conflict
 }
