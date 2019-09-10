@@ -20,7 +20,7 @@ public class Main {
 
 		// modify inside main on master
 	}
-	
+	// конём конём конём !!!!!!!
 	// modifying the line below main() 
 	// this shouldn't result in a conflict
 }
