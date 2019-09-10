@@ -8,7 +8,7 @@ public class Main {
 	public static void hui() {
 		System.out.println("hui");
 	}
-
+	// ебись оно конем!!!
 	public static void main(String[] args) {
 		
 		Person yjh = new Person("Jeonghan", "Yoon");
