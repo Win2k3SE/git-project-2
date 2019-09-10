@@ -4,7 +4,7 @@ import com.gittest.domain.Person;
 import com.gittest.services.NameSayer;
 
 public class Main {
-	// plui!!!
+	// я хуею и ниче не понимаю   !!!
 	public static void hui() {
 		System.out.println("hui");
 	}
