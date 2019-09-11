@@ -6,7 +6,7 @@ import com.gittest.services.NameSayer;
 public class Main {
 	
 	public static void main(String[] args) {
-		
+                    // какая же всё-таки хуйня этот ваш гит!!!		
 		Person yjh = new Person("Jeonghan", "Yoon");
 		
 		NameSayer.sayTheName(yjh);
